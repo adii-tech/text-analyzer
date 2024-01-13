@@ -1,5 +1,5 @@
 import Page from './component/Page';
-
+import React from 'react';
 
 function App() {
   return (
